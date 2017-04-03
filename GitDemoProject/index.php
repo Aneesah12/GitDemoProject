@@ -1,6 +1,8 @@
 <?php
 echo "Hello World! \n";
 
+//testing
+
 function badWordFilter($data) {
     $originals = array("idiot", "stupid", "moron");
     $replacements = array("friend", "wow", "sweet pea");
